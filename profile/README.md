@@ -8,3 +8,6 @@ NeVerTools is an organization powered by University of Genova and University of 
 * Dario Guidotti (UniSS)
 * Luca Pulina (UniSS)
 * Armando Tacchella (UniGE)
+* Andrea Gimelli (UniGE)
+* Karim Pedemonte (UniGE)
+* Elena Botoeva (UniKent)
